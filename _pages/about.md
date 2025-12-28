@@ -16,8 +16,8 @@ redirect_from:
 Documents
 ======
 You can download my documents here:  
-- [Resume](../files/Resume.pdf)  
-- [Transcript](../files/Transcript.pdf)
+- [Resume](files/Resume.pdf)  
+- [Transcript](files/Transcript.pdf)
 
 Projects
 ======
