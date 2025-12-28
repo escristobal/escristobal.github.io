@@ -49,7 +49,7 @@ Projects
 
 Education
 ======
-**Bachelor of Science in Computer Science**
+**Bachelor of Science in Computer Science**  
 **Minor:** Mathematics 
 Washington State University, Pullman, WA  
 **GPA:** 3.2 | December 2025  
