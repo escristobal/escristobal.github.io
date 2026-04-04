@@ -20,24 +20,34 @@ You can download my documents here:
 - [Resume](files/Resume.pdf)  
 - [Transcript](files/Transcript.pdf)
 
+Education
+======
+**Bachelor of Science in Computer Science**  
+**Minor in Mathematics**                  
+Washington State University, Pullman, WA  
+**GPA:** 3.2 | **December 2025**  
+Focus Areas: Software Engineering, AI & ML, Computer Graphics
+
+Skills
+======
+**Languages:** C/C++, C#, Python, JavaScript, Haskell, Postscript, HTML, CSS, Flask, R, Matlab  
+**Frameworks & Libraries:** Pyeda, Pandas, Numpy, WebGL  
+**Development Tools:** GDB, GCC, VSCode, SQLite, VirtualBox, Kali & Ubuntu Linux  
+**Security & Networking Tools:** nmap, Metasploit, Wireshark, John The Ripper  
+**3D Tools:** Autodesk Maya, Blender, Unity
+
 Projects
 ======
-### Metal Whiskers Simulation
-**January 2025 – May 2025**  
-[GitHub Repository](https://github.com/WSUCptSCapstone-S25-F25/-mda-unity3dapp-)  
-- Continued Unity/C# simulation modeling PCB failure via Monte Carlo analysis.  
-- Debugged crashes, implemented UI improvements, and set up unit tests with Unity Test Runner.  
-- Collaborated in Agile sprints, delivering progress updates to clients.
 
 ### FamApp — Private Family Communication Platform
-**2026**  
+**February 2026 - Present**  
 [GitHub Repository](https://github.com/escristobal/FA_FrontEnd)  
 - Built a full-stack family messaging platform with real-time messaging via Socket.io, Cloudinary file uploads, Google OAuth, rate limiting, and push notifications.  
 - Developed a TypeScript/React frontend and a Node.js/Express backend with MongoDB for data persistence.  
 - Deployed on Railway with automated health checks and a restart-on-failure policy.
 
 ### AI Assistant
-**2026**  
+**February 2026 - Present**  
 [GitHub Repository](https://github.com/escristobal/AI-FrontEnd)  
 - Built a multi-turn AI assistant using Groq's LLaMA models, with persistent conversation history stored in MongoDB.  
 - Added file processing support for images (vision model), PDFs, and 20+ source code formats.  
@@ -49,6 +59,13 @@ Projects
 - Developed multiple models for dog-breed classification, including CNNs, KNN with HOG features, Decision Trees, and Random Forests.  
 - Performed training, testing, and evaluation on a multi-class dataset, analyzing accuracy, runtime, and overfitting.  
 - Applied hyperparameter tuning to improve performance.
+
+### Metal Whiskers Simulation
+**January 2025 – May 2025**  
+[GitHub Repository](https://github.com/WSUCptSCapstone-S25-F25/-mda-unity3dapp-)  
+- Continued Unity/C# simulation modeling PCB failure via Monte Carlo analysis.  
+- Debugged crashes, implemented UI improvements, and set up unit tests with Unity Test Runner.  
+- Collaborated in Agile sprints, delivering progress updates to clients.
 
 Additional Projects
 ======
@@ -66,23 +83,6 @@ Built a 3D racing game with hierarchical scene graph, Phong lighting, textured o
 
 ### Digital Bookshelf (Python/Flask)
 Created a book management app with search/filter, CRUD functionality, and responsive HTML/CSS UI. [GitHub](https://github.com/WSU-CptS-322-Fall-2023/termproject-bookworms.git)
-
-
-Education
-======
-**Bachelor of Science in Computer Science**  
-**Minor in Mathematics**                  
-Washington State University, Pullman, WA  
-**GPA:** 3.2 | **December 2025**  
-Focus Areas: Software Engineering, AI & ML, Computer Graphics
-
-Skills
-======
-**Languages:** C/C++, C#, Python, JavaScript, Haskell, Postscript, HTML, CSS, Flask, R, Matlab  
-**Frameworks & Libraries:** Pyeda, Pandas, Numpy, WebGL  
-**Development Tools:** GDB, GCC, VSCode, SQLite, VirtualBox, Kali & Ubuntu Linux  
-**Security & Networking Tools:** nmap, Metasploit, Wireshark, John The Ripper  
-**3D Tools:** Autodesk Maya, Blender, Unity
 
 Other Experience
 ======
