@@ -30,11 +30,11 @@ Focus Areas: Software Engineering, AI & ML, Computer Graphics
 
 Skills
 ======
-**Languages:** C/C++, C#, Python, JavaScript, Haskell, Postscript, HTML, CSS, Flask, R, Matlab  
+**Languages:** C/C++, C#, Python, JavaScript, Haskell, Postscript, HTML, CSS, Flask, R, Matlab, GDScript
 **Frameworks & Libraries:** Pyeda, Pandas, Numpy, WebGL  
 **Development Tools:** GDB, GCC, VSCode, SQLite, VirtualBox, Kali & Ubuntu Linux  
 **Security & Networking Tools:** nmap, Metasploit, Wireshark, John The Ripper  
-**3D Tools:** Autodesk Maya, Blender, Unity
+**3D Tools:** Autodesk Maya, Blender, Unity, Godot
 
 Projects
 ======
@@ -66,6 +66,13 @@ Projects
 - Continued Unity/C# simulation modeling PCB failure via Monte Carlo analysis.  
 - Debugged crashes, implemented UI improvements, and set up unit tests with Unity Test Runner.  
 - Collaborated in Agile sprints, delivering progress updates to clients.
+
+### 3D First-Person Survival Game
+**April 2026 - Present**
+- Building a first-person survival game in Godot 4 featuring item gathering, crafting, hunting, cooking, and building mechanics.
+- Implementing core systems including a first-person controller, raycast-based interaction, state machine AI for enemy behavior, and a global event system.
+- Designing scalable inventory, item equipping, day/night cycle, water shader, and custom lighting systems with a focus on clean, maintainable architecture.
+- Applying multithreading, custom resources, and plugin integration for performance and extensibility.
 
 Additional Projects
 ======
